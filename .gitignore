@@ -12,3 +12,6 @@
 *.out
 
 .ds_store
+
+/temp
+/unfinished
